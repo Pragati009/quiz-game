@@ -6,6 +6,8 @@ def play_quiz():
     if playing.lower() != "yes":
         quit()
 
+        
+
     print("Lets play a game")
     score = 0
 
